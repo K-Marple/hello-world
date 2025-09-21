@@ -10,10 +10,10 @@ Demonstates basic programming abilities and prove that my GitHub, VS Code, and k
 
 # Development Environment
 
-Visual Studio Code
-Git / GitHub
-JavaScript
-Node.js with Express
+- Visual Studio Code
+- Git / GitHub
+- JavaScript
+- Node.js with Express
 
 # Useful Websites
 
