@@ -1,0 +1,24 @@
+{
+  "name": "hello-world",
+  "version": "1.0.0",
+  "description": "Display \"Hello World\"",
+  "homepage": "https://github.com/K-Marple/hello-world#readme",
+  "bugs": {
+    "url": "https://github.com/K-Marple/hello-world/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/K-Marple/hello-world.git"
+  },
+  "license": "ISC",
+  "author": "Kayli Marple",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
